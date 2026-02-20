@@ -55,13 +55,13 @@ Available for **freelance projects**, **collaborations**, and **full-time opport
 | [🌦️ Weather Station Analysis](https://github.com/Datadryft/Weather-station-analysis) | Multi-site weather data analysis for UF/IFAS hemp field trials | R, ggplot2, Tidyverse |
 | [🏠 Wireless AI Homelab](https://github.com/Datadryft) | Self-hosted AI automation server running n8n, Docker, and local LLM workflows | Proxmox, Docker, n8n |
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 
 ![Datadryft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Datadryft&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Datadryft&layout=compact&theme=tokyonight&hide_border=true)
-
+-->
 ---
 
 ## 🤝 Let's Work Together
