@@ -6,6 +6,7 @@ Self-taught engineer based in Homestead, FL. I build end-to-end ML systems, data
 
 Available for **freelance projects**, **collaborations**, and **full-time opportunities**.
 
+![Portfolio](https://img.shields.io/badge/Portfolio-datadryft.com-00f5ff?style=flat-square)
 ---
 
 ## 🛠️ What I Do
